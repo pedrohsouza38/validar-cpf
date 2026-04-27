@@ -8,6 +8,7 @@ Desenvolver um aplicativo que leia um CPF e após a sua validação exiba na tel
 import re
 
 def validar_cpf(cpf):
+
     # 1. Limpeza: Remove pontos, traços e espaços, mantendo apenas números
     cpf = re.sub(r'\D', '', cpf)
 
