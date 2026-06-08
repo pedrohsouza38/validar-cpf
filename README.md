@@ -1,5 +1,5 @@
 # validar-cpf
-Exercício de Lógica com Python
+Exercício de Lógica com Python para Validar CPF
 
 Desenvolver um aplicativo que leia um CPF e após a sua validação exiba na tela:
   CPF válido! ou
